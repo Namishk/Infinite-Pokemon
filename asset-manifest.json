@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Infinite-Pokemon/static/css/main.b8a88bc9.css",
+    "main.js": "/Infinite-Pokemon/static/js/main.7735e655.js",
+    "static/js/787.b1e52a1b.chunk.js": "/Infinite-Pokemon/static/js/787.b1e52a1b.chunk.js",
+    "index.html": "/Infinite-Pokemon/index.html",
+    "main.b8a88bc9.css.map": "/Infinite-Pokemon/static/css/main.b8a88bc9.css.map",
+    "main.7735e655.js.map": "/Infinite-Pokemon/static/js/main.7735e655.js.map",
+    "787.b1e52a1b.chunk.js.map": "/Infinite-Pokemon/static/js/787.b1e52a1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a88bc9.css",
+    "static/js/main.7735e655.js"
+  ]
+}
